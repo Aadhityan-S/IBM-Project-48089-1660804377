@@ -1,2 +1,26 @@
 # IBM-Project-48089-1660804377
-Car Resale value Prediction
+## Car Resale value Prediction
+### Domain: Applied Data Science
+
+---
+
+** TEAM SIZE :** 4
+** TEAM LEAD :** MOHAMMED NISHAR S
+** TEAM MEMBER 1 :** AVINASHLINGAM S
+** TEAM MEMBER 2 :** MOHAMMED JAMEAL J
+** TEAM MEMBER 3:** ROHITH R V
+
+---
+
+**INDUSTRY MENTOR :** SWETHA
+** FACULTY MENTOR :** SUHASINI C
+
+---
+
+**DEGREE & BRANCH: ** BE.COMPUTER SCIENCE AND ENGINEERING
+
+---
+
+**COLLEGE NAME: ** RATHINAM TECHNICAL CAMPUS
+
+
