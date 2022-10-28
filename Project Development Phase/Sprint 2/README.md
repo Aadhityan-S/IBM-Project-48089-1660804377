@@ -1,4 +1,2 @@
-# 
-IBM-Project-48089-1660804377
-##
-Car Resale Value Prediction
+# IBM-Project-48089-1660804377
+## Car Resale Value Prediction
